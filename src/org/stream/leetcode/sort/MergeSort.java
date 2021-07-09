@@ -63,5 +63,14 @@ public class MergeSort {
         int[] a = new int[]{2, 9, -9, 7, -6, 8, 0};
         mergeSort.mergeSort(a, 0, a.length - 1);
         SortUtil.outputArray(a);
+
+        /**
+         * https://mp.weixin.qq.com/mp/homepage?__biz=MzU0ODMyNDk0Mw==&hid=3&sn=934f9969c96193ef720e99c49cde6cf8&scene=18&devicetype=android-30&version=28000653&lang=zh_CN&nettype=ctnet&ascene=59&session_us=gh_7b359cb486d7&pass_ticket=39FhpM7EsqajdsL0vpxJu1wsyaInDLZjeyOC1VLBnWRME2VDy4U%2B43BlrsiUkMy4&wx_header=1
+         *
+         *https://www.jianshu.com/nb/21809393
+         *
+         */
+
+
     }
 }
